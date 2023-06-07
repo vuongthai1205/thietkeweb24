@@ -1,0 +1,120 @@
+.elementor-147 .elementor-element.elementor-element-465fa27 {
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --padding-top: 75px;
+    --padding-right: 0px;
+    --padding-bottom: 10px;
+    --padding-left: 0px;
+}
+
+.elementor-147 .elementor-element.elementor-element-465fa27:not(.elementor-motion-effects-element-type-background),
+.elementor-147 .elementor-element.elementor-element-465fa27>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #033626;
+}
+
+.elementor-147 .elementor-element.elementor-element-465fa27,
+.elementor-147 .elementor-element.elementor-element-465fa27::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-147 .elementor-element.elementor-element-465fa27>.elementor-shape-top .elementor-shape-fill,
+.elementor-147 .elementor-element.elementor-element-465fa27>.e-con-inner>.elementor-shape-top .elementor-shape-fill {
+    fill: #BBAA74;
+}
+
+.elementor-147 .elementor-element.elementor-element-177934f {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 28px;
+    --grid-column-gap: 15px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-147 .elementor-element.elementor-element-177934f .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-147 .elementor-element.elementor-element-177934f .elementor-social-icon {
+    background-color: #FFFFFF00;
+    --icon-padding: 0.8em;
+}
+
+.elementor-147 .elementor-element.elementor-element-177934f .elementor-social-icon i {
+    color: #FFFFFF;
+}
+
+.elementor-147 .elementor-element.elementor-element-177934f .elementor-social-icon svg {
+    fill: #FFFFFF;
+}
+
+.elementor-147 .elementor-element.elementor-element-177934f .elementor-icon {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-147 .elementor-element.elementor-element-177934f .elementor-social-icon:hover i {
+    color: #FDFDFD;
+}
+
+.elementor-147 .elementor-element.elementor-element-177934f .elementor-social-icon:hover svg {
+    fill: #FDFDFD;
+}
+
+.elementor-147 .elementor-element.elementor-element-0d63308 {
+    text-align: center;
+    color: #BBAA74;
+    font-family: "Assyrian", Sans-serif;
+    font-weight: 400;
+}
+
+@media(max-width:767px) {
+    .elementor-147 .elementor-element.elementor-element-465fa27 {
+        --padding-top: 75px;
+        --padding-right: 20px;
+        --padding-bottom: 10px;
+        --padding-left: 20px;
+    }
+    .elementor-147 .elementor-element.elementor-element-177934f {
+        --icon-size: 19px;
+        --grid-column-gap: 15px;
+        --grid-row-gap: 15px;
+    }
+}
+
+/* Start custom CSS for social-icons, class: .elementor-element-177934f */
+
+.elementor-icon.elementor-social-icon {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* End custom CSS */
+
+/*
+     FILE ARCHIVED ON 19:18:44 May 07, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:57:16 Jun 07, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+/*
+playback timings (ms):
+  captures_list: 121.376
+  exclusion.robots: 0.069
+  exclusion.robots.policy: 0.06
+  RedisCDXSource: 6.382
+  esindex: 0.009
+  LoadShardBlock: 94.765 (3)
+  PetaboxLoader3.datanode: 138.046 (5)
+  load_resource: 182.699
+  PetaboxLoader3.resolve: 112.061
+  loaddict: 36.536
+*/

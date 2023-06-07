@@ -1,0 +1,45 @@
+:root {
+    --reach-dialog: 1
+}
+
+[data-reach-dialog-overlay] {
+    background: rgba(0, 0, 0, .33);
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: auto
+}
+
+[data-reach-dialog-content] {
+    width: 50vw;
+    margin: 10vh auto;
+    background: #fff;
+    padding: 2rem;
+    outline: none
+}
+
+/*# sourceMappingURL=8.5a56e189.chunk.css.map */
+
+/*
+     FILE ARCHIVED ON 01:28:44 May 10, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:57:23 Jun 07, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+/*
+playback timings (ms):
+  captures_list: 166.829
+  exclusion.robots: 0.059
+  exclusion.robots.policy: 0.051
+  cdx.remote: 0.053
+  esindex: 0.009
+  LoadShardBlock: 131.45 (3)
+  PetaboxLoader3.datanode: 113.682 (4)
+  load_resource: 125.286
+  PetaboxLoader3.resolve: 65.952
+*/
